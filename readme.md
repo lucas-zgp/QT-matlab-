@@ -79,7 +79,9 @@
 
 默认安装即可
 
-详细安装方法见www
+详细安装方法见 https://github.com/lucas-zgp/QT-matlab- 
+
+
 
 ## 6 演示demo
 
@@ -274,7 +276,7 @@
 
 * 完成上诉两步，就可以在自己的电脑上使用打包好的exe程序了，如果要放到别的电脑上去运行，别的电脑还需要安装matlab的运行环境
 
-* 打开https://ww2.mathworks.cn/products/compiler/matlab-runtime.html网址，下载matlab版本对应的运行环境，这里使用的是2015b,所以我们下载下图这个安装包，注意位数
+* 打开 https://ww2.mathworks.cn/products/compiler/matlab-runtime.html 网址，下载matlab版本对应的运行环境，这里使用的是2015b,所以我们下载下图这个安装包，注意位数
 
   ![image-20210822230213936](https://gitee.com/LucasXm/img/raw/master/img//image-20210822230213936.png)
 
